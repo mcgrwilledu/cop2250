@@ -10,7 +10,7 @@ Select the correct answer from the available choices.
 
 Suppose that you have created a program with only the following variables.
 
-```
+```java
 int age = 34;
 
 int weight = 180;
@@ -20,7 +20,7 @@ double height = 5.9;
 
 Suppose that you also have a method with the following header:
 
-```
+```java
 public static void calculate(int age, double size)
 ```
 
