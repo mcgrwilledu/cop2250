@@ -23,6 +23,6 @@ Save the application as **Percentages.java**.
 
 Tasks
 
-**Task 01:**  Create the `Percentages` class.
-**Task 02:**  The `computePercent()` method displays the percent of the first argument of the second argument.
-**Task 03:**  The `Percentages` program accepts 2 `double` values from the console and displays the percent of first value of the second value and vice versa.
+**Task 01:**  Create the `Percentages` class.  
+**Task 02:**  The `computePercent()` method displays the percent of the first argument of the second argument.  
+**Task 03:**  The `Percentages` program accepts 2 `double` values from the console and displays the percent of first value of the second value and vice versa.  
