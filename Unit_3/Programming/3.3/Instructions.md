@@ -23,8 +23,8 @@ Save the application as **NumbersDemo.java**.
 
 Tasks
 
-**Task 01:**  Create the `NumbersDemo` class.
-**Task 02:**  The `displayTwiceTheNumber()` method multiples a number by **2**.
-**Task 03:**  The `displayNumberPlusFive()` method adds **5** to the argument.
-**Task 04:**  The `displayNumberSquared()` method squares the argument.
-**Task 05:**  The `NumbersDemo` program accepts two integer input values and displays the correct output after each method.
+**Task 01:**  Create the `NumbersDemo` class.  
+**Task 02:**  The `displayTwiceTheNumber()` method multiples a number by **2**.  
+**Task 03:**  The `displayNumberPlusFive()` method adds **5** to the argument.  
+**Task 04:**  The `displayNumberSquared()` method squares the argument.  
+**Task 05:**  The `NumbersDemo` program accepts two integer input values and displays the correct output after each method.  
