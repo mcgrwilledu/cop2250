@@ -35,7 +35,7 @@ Enter inches >> 2395
 
 Tasks
 
-**Task 01:**  Create the `InchConversion` class.
-**Task 02:**  The `convertToFeet` method converts inches to feet.
-**Task 03:**  The `convertToYards` method converts inches to yards.
-**Task 04:**  The `InchConversion` program converts inches to feet and yards.
+**Task 01:**  Create the `InchConversion` class.  
+**Task 02:**  The `convertToFeet` method converts inches to feet.  
+**Task 03:**  The `convertToYards` method converts inches to yards.  
+**Task 04:**  The `InchConversion` program converts inches to feet and yards.  
