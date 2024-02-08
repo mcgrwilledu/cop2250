@@ -10,7 +10,7 @@ Select the correct answer from the available choices.
 
 Suppose that you have created a program with only the following variables.
 
-```
+```java
 int x = 2;
 
 int y = 3;
@@ -18,7 +18,7 @@ int y = 3;
 
 Suppose that you also have a method with the following header:
 
-```
+```java
 public static void mathMethod(int x)
 ```
 
