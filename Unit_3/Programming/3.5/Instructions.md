@@ -33,6 +33,6 @@ Jane Doe, your GPA is 3.6, so your discount is $36.0
 
 Tasks
 
-**Task 01:**  Create the `BookstoreCredit` class.
-**Task 02:**  The `computeDiscount` method calculates a discount based on a student's GPA.
-**Task 03:**  The `BookstoreCredit` program displays the discount for the student's information.
+**Task 01:**  Create the `BookstoreCredit` class.  
+**Task 02:**  The `computeDiscount` method calculates a discount based on a student's GPA.  
+**Task 03:**  The `BookstoreCredit` program displays the discount for the student's information.  
