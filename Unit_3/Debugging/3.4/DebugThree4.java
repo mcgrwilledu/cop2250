@@ -5,6 +5,8 @@ public class DebugThree4
 	public static void
 	main(String[] args)
 	{
+		final double RATE = 75.84;
+
 		int credits1;
 		int credits2;
 
@@ -17,18 +19,16 @@ public class DebugThree4
 		credits2 = in.nextInt();
 		in.nextLine();
 
-		computeTuitionBill(credits1, 1);
-		computeTuitionBill(credits2, 2);
+		computeTuitionBill(credits1, RATE, 1);
+		computeTuitionBill(credits2, RATE, 2);
 	}
 
 	public static void
-	computeTuitionBill(int c, int student)
+	computeTuitionBill(int c, double rate, int student)
 	{
-		final double RATE = 75.84;
-
 		System.out.println("Total due for student #"
 		    + student
 		    + " is $"
-		    + (RATE * c));
+		    + (rate * c));
 	}
 }
